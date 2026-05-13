@@ -26,7 +26,7 @@ Tugas Session 2 – ``` Hacktiv8: AI Productivity and AI API Integration for Dev
 
 <br><br>
 
-## ⚡ Postman: Testing the API Endpoints
+## ⚡Postman: Testing the API Endpoints
 <table>
 <tr>
 <td width="210"><img src="documentation/postman/generate-text.png" alt="generate-text"></td>
