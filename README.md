@@ -4,7 +4,7 @@
 ![Tools](https://img.shields.io/badge/Tools-Visual%20Studio%20Code%2C%20&%20Postman-light.svg?style=flat&logo=gnometerminal&logoColor=white&color=%23F7DF1E)
 
 # gemini-flash-api
-Tugas Session 2 – ``` Hacktiv8: AI Productivity and AI API Integration for Developers ```
+Session 2 – ``` Hacktiv8: AI Productivity and AI API Integration for Developers ```
 
 <br><br>
 
